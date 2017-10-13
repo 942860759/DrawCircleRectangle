@@ -1,0 +1,12 @@
+﻿  DrawCircleRectangleDlg.cpp
+c:\users\win10\documents\visual studio 2017\projects\drawcirclerectangle\drawcirclerectangle\drawcirclerectangledlg.cpp(230): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\win10\documents\visual studio 2017\projects\drawcirclerectangle\drawcirclerectangle\drawcirclerectangledlg.cpp(246): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\win10\documents\visual studio 2017\projects\drawcirclerectangle\drawcirclerectangle\drawcirclerectangledlg.cpp(271): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\win10\documents\visual studio 2017\projects\drawcirclerectangle\drawcirclerectangle\drawcirclerectangledlg.cpp(286): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\win10\documents\visual studio 2017\projects\drawcirclerectangle\drawcirclerectangle\drawcirclerectangledlg.cpp(311): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\win10\documents\visual studio 2017\projects\drawcirclerectangle\drawcirclerectangle\drawcirclerectangledlg.cpp(325): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\win10\documents\visual studio 2017\projects\drawcirclerectangle\drawcirclerectangle\drawcirclerectangledlg.cpp(349): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\win10\documents\visual studio 2017\projects\drawcirclerectangle\drawcirclerectangle\drawcirclerectangledlg.cpp(363): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\win10\documents\visual studio 2017\projects\drawcirclerectangle\drawcirclerectangle\drawcirclerectangledlg.cpp(225): warning C4101: “d”: 未引用的局部变量
+  DrawCircleRectangle.vcxproj -> C:\Users\win10\Documents\Visual Studio 2017\Projects\DrawCircleRectangle\Debug\DrawCircleRectangle.exe
+  DrawCircleRectangle.vcxproj -> C:\Users\win10\Documents\Visual Studio 2017\Projects\DrawCircleRectangle\Debug\DrawCircleRectangle.pdb (Partial PDB)
